@@ -9,7 +9,7 @@ function Welcome() {
 function Construction() {
   return (
     <>
-      <img src="/construction.png" alt="Em construção" />
+      <img src="/portifolio-fernando-arvelos/construction.png" alt="Em construção" />
     </>
   );
 }

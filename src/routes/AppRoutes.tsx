@@ -4,7 +4,7 @@ import About from '../pages/About';
 
 export default function AppRoutes() {
   return (
-    <BrowserRouter>
+    <BrowserRouter basename="/portifolio-fernando-arvelos/">
       <Routes>
         <Route path="/" element={<Home />} />
         <Route path="/about" element={<About />} />
